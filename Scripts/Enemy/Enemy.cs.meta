@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a34170a8c8ff69047957258f3f53f0ba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spawner: {instanceID: 0}
+  - attackobj: {fileID: 457227047724128371, guid: f0e39f2ac58c16b43a6114ca1ca86046, type: 3}
+  - sense: {instanceID: 0}
+  - dmgText: {fileID: 7715725708410921292, guid: 7d1ac32119016a141962aedc48c5303c, type: 3}
+  - target: {instanceID: 0}
+  - dmgPos: {instanceID: 0}
+  - weaponPos: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

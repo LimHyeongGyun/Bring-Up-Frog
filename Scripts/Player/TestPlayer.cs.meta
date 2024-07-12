@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: d4431987f021e30498d1d8d12f6ae70f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - stagemove: {instanceID: 0}
+  - spawner: {instanceID: 0}
+  - sensor: {instanceID: 0}
+  - equip: {instanceID: 0}
+  - hpSlider: {instanceID: 0}
+  - expSlider: {instanceID: 0}
+  - weaponPos: {instanceID: 0}
+  - armorPos: {instanceID: 0}
+  - attackobj: {fileID: 5277705424271747845, guid: 84cf7767a8f760e4fa22c10c75c256f4, type: 3}
+  - pierceimg: {instanceID: 0}
+  - windmillimg: {instanceID: 0}
+  - channelingimg: {instanceID: 0}
+  - landslashimg: {instanceID: 0}
+  - pierceLockImg: {instanceID: 0}
+  - windmilLockImg: {instanceID: 0}
+  - channelingLockImg: {instanceID: 0}
+  - landslashLockImg: {instanceID: 0}
+  - dmgText: {instanceID: 0}
+  - dmgPos: {instanceID: 0}
+  - audioPierce: {instanceID: 0}
+  - audioWindmill: {instanceID: 0}
+  - audioChanneling: {instanceID: 0}
+  - audioLandslash: {instanceID: 0}
+  - target: {instanceID: 0}
+  - playerpos: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
