@@ -26,7 +26,6 @@
     <li><a href="#project-files-description"> 프로젝트 파일 </a></li>
     <li><a href="#tech"> 기술/프레임워크 </a></li>
     <li><a href="#screen-shot"> 스크린샷</a></li>
-    <li><a href="#spreadsheet-link"> 다이얼로그 시트 </a></li>
     <li><a href="#download-link"> 게임 다운로드 </a></li>
   </ol>
 </details>
@@ -39,13 +38,14 @@
 <a href="https://github.com/LimHyeongGyun">LimHyeongGyun</a>은 기획, 클라이언트 개발을 담당하고 있습니다. 서브기획, 플레이어, 몬스터, 게임시스템을 담당하였습니다.
 (readme 작성자인 LimHyeongGyun의 파트만 기술 하였습니다.)
 
-<h2 id="project-files-description"> 3. 프로젝트 파일 (AcientRuins/Script/) </h2>
+<h2 id="project-files-description"> 3. 프로젝트 파일 (Bring-Up-Frog/Scripts/) </h2>
+<li><b>/Enemy </b> -  몬스터 담당하는 부분</li>
+<li><b>/Equipment</b> - 장비 아이템</li>
 <li><b>/Inventory</b> - 아이템 획득하고 장착하는 인벤토리 부분</li>
-<li><b>/Item</b> - 아이템을 종류별로 분할하고 아이템 데이터를 관리하는 부분</li>
-<li><b> /Manager</b> - 게임 내 관리 및 시스템 제어 매니저</li>
-<li><b> /Npc </b> -  NPC기능을 담당하는 부분</li>
-<li><b> /Player </b> - 플레이어 컨트롤 및 기능을 담당하는 부분</li>
-<li><b> /System </b> - 다이얼로그 및 데이터 세이브 등 게임 내 시스템을 담당하는 부분</li>
+<li><b>/Pick</b> - 장비 아이템</li>
+<li><b>/Player </b> - 플레이어 컨트롤 및 기능을 담당하는 부분</li>
+<li><b>/System </b> - 다이얼로그 및 데이터 세이브 등 게임 내 시스템을 담당하는 부분</li>
+<li><b>/Manager</b> - 게임 내 관리 및 시스템 제어 매니저</li>
 
 
 <h2 id="tech"> 4. 기술/프레임워크 </h2>
@@ -62,7 +62,5 @@
 <게임 플레이 사진>
 </div>
 
-<h2 id="spreadsheet-link"> 6.다이얼로그시트</h2>
-<li>https://docs.google.com/spreadsheets/d/1qUaobVFt9pj3BaDbAQAHjnOD9yyasFep-4rz-QBoq8E/edit?gid=0#gid=0
 <h2 id="download-link"> 7.게임 다운로드</h2>
-<li>https://drive.google.com/drive/folders/1SL0G-FXH0FqEGWVkzLijlPPWnmBeDm_R
+<li>
