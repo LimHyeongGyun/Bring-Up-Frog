@@ -34,7 +34,7 @@
 스테이지는 총 5개로 재화를 획득하여 스탯을 업그레이드하고 뽑기로 장비를 파밍하여 강해지는 형식입니다.</p>
 
 <h2 id="overview"> 2. 게임개요 </h2>
-<a href="https://github.com/LimHyeongGyun">LimHyeongGyun</a>은 기획, 클라이언트 개발을 담당하였습니다. 서브기획, 플레이어, 몬스터, 게임시스템을 담당하였습니다.
+<a href="https://github.com/LimHyeongGyun">LimHyeongGyun</a>은 기획, 클라이언트 개발을 담당하였습니다. 서브기획, 플레이어, 몬스터, 게임시스템을 담당하였습니다.<br>
 (readme 작성자인 LimHyeongGyun의 파트만 기술 하였습니다.)
 
 <h2 id="project-files-description"> 3. 프로젝트 파일 (Bring-Up-Frog/Scripts/) </h2>
