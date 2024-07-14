@@ -3,7 +3,7 @@
 <h1> Bring-Up-Frog </h1>
 <div align=center> <img src="./Image/GamePoster.png" width="400" heigh="600"> </div>
 </div>
-<li> 개발기간: 2023.0901 ~ 2023.12.21
+<li> 개발기간: 2023.09.01 ~ 2023.12.21
 <li> 개발인원
   <ol>
    <li>기획:<a href="https://github.com/LSeungHyun">LSeungHyun</a>, <a href="https://github.com/LimHyeongGyun">LimHyeongGyun</a>
