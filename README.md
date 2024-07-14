@@ -13,7 +13,6 @@
   </ol>
 </li>
 <li> 형상관리툴: PlasticSCM
-<li> GitHub.Io: <a href="LimHyeongGyun.github.io">AcientRuins.Io</a>
 
 <!-- Contents --!>
 <h2 id="table-of-contents"> :book: 목차 </h2>
