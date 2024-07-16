@@ -59,9 +59,8 @@
 <img src="./Image/StageSelectImg.png" width="49%" heigh="300"></a>
 <img src="./Image/StatsUpgradeImg.png" width="49%" heigh="300"></a>
 <img src="./Image/SKillImg.png" width="49%" heigh="300"><br>
-
 <게임 플레이 사진>
 </div>
 
 <h2 id="download-link"> 7.게임 다운로드</h2>
-<li>
+<li>https://drive.google.com/drive/folders/1hjUHcPdsVdftnCGBADMUjOol1XvaUcZh
