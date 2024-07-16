@@ -53,10 +53,12 @@
 
 <h2 id="screen-shot"> 5. 스크린샷</h2>
 <div align="center">
-<img src="./Image/NpcTalkImg.png" width="49%" heigh="400"></a>
-<img src="./Image/PortalImg.png" width="49%" heigh="400"></a>
-<img src="./Image/BossImg.png" width="49%" heigh="400"></a>
-<img src="./Image/LastBossImg.png" width="49%" heigh="400"><br>
+<img src="./Image/PlayImg.png" width="49%" heigh="400"></a>
+<img src="./Image/InventoryImg.png" width="49%" heigh="400"></a>
+<img src="./Image/PickUpImg.png" width="49%" heigh="400"></a>
+<img src="./Image/StageSelectImg.png" width="49%" heigh="400"><br>
+<img src="./Image/StatsUpgradeImg.png" width="49%" heigh="400"><br>
+<img src="./Image/SKillImg.png" width="49%" heigh="400"><br>
 
 <게임 플레이 사진>
 </div>
