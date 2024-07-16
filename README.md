@@ -8,7 +8,7 @@
   <ol>
    <li>기획:<a href="https://github.com/LSeungHyun">LSeungHyun</a>, <a href="https://github.com/LimHyeongGyun">LimHyeongGyun</a>
    <li>프로그래밍: <a href="https://github.com/LimHyeongGyun">LimHyeongGyun</a>, 박기현
-   <li>캐릭터 모델링: 서윤성
+   <li>캐릭터 모델링, 애니메이션: 서윤성
    <li>배경 모델링, 오브젝트 모델링:최원준
   </ol>
 </li>
