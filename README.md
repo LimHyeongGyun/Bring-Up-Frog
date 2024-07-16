@@ -39,10 +39,10 @@
 
 <h2 id="project-files-description"> 3. 프로젝트 파일 (Bring-Up-Frog/Scripts/) </h2>
 <li><b>/Enemy </b> -  몬스터 담당하는 부분</li>
-<li><b>/Equipment</b> - 장비 아이템</li>
+<li><b>/Equipment</b> - 장비 아이템 관리하는 부분</li>
 <li><b>/Inventory</b> - 아이템 획득하고 장착하는 인벤토리 부분</li>
-<li><b>/Pick</b> - 장비 아이템</li>
-<li><b>/Player </b> - 플레이어 컨트롤 및 기능을 담당하는 부분</li>
+<li><b>/Pick</b> - 뽑기 기능 관리하는 부분</li>
+<li><b>/Player </b> - 플레이어 움직임 기능을 담당하는 부분</li>
 <li><b>/System </b> - 내 시스템을 담당하는 부분</li>
 <li><b>/Manager</b> - 게임 내 관리 및 시스템 제어 매니저</li>
 
