@@ -62,5 +62,5 @@
 <게임 플레이 사진>
 </div>
 
-<h2 id="download-link"> 7.게임 다운로드</h2>
+<h2 id="download-link"> 6.게임 다운로드</h2>
 <li>https://drive.google.com/drive/folders/1hjUHcPdsVdftnCGBADMUjOol1XvaUcZh
